@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "@@last_modified": "2020-08-01T11:29:50.691238",
+  "title": "The Way Way Out",
+  "@title": {
+    "description": "Title for the application",
+    "type": "text",
+    "placeholders": {}
+  }
+}
